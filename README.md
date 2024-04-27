@@ -1,2 +1,8 @@
 # PortSwigger's Web Application Security Academy Labs
-In this repository, you'll discover my personal documentation detailing diverse PortSwigger WebAppSec Labs.
+
+My personal python scripts that helps to solve labs on PortSwigger's Academy.
+
+# Topics 
+- [[Command Injection]]
+- [[XSS]]
+
